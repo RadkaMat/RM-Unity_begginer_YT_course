@@ -1,0 +1,36 @@
+Unity version: 2022.2.5f1
+Project: 3D (URP) core
+
+ 1. move windows - drag and drop on window's name
+
+Project window
+ 2. - ... - One Column Layout
+
+Console window
+ 3. - ... - Log Entry - 1 Line
+ 4. - ... - Show Timestamp - on
+ 5. - ... - Use Monospace font - on
+ 6. - Clear - only Clear on Play
+ 7. - Collapse - off
+ 8. - Error Pause - off
+
+Game window
+ 9. - bar - Full HD (1920x1080)
+10. - bar - Play Unfocused
+11. - bar - Full HD (1920x1080) - VSync (Game view only)
+12. - bar - Size of the game view on the screen. - scale - min zoom value
+
+Scene window
+13. - bar - Toggle Tool Handle Position - Pivot
+14. - bar - Toggle Tool Handle Rotation - Global
+15. - bar - Toggle the visibility of the grid - on
+16. - bar - Toggle Grid Snapping on and off. - off
+17. - bar - The Draw Mode used to display the Scene. - Shaded
+18. - bar - When toggled on, the Scene is in 2D view... - off
+19. - bar - When toggled on, the Scene lighting is used... - on
+20. - bar - Toggle skybox, fox and various other effects. - Always Refresh - off (others on)
+21. - bar - Number of hidden objects... - on
+22. - bar - Toggle visibility of all Gizmos in the Scene view. - on
+
+Inspector
+23. - Layout - Save Layout...
