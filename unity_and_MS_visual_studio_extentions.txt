@@ -21,3 +21,23 @@ Preferences - bar External Tools
 
 Manage Extensions
 10. - find and install Viasfora then close Microsoft Visual Studio for intalation
+
+11. - Unity project - bar Assets - Open C# Project
+
+12. - Microsooft Visual Studio - bar Tools - open Options
+
+Options
+13. - find Viasfora - roll menu - Rainbow Braces - can change colors of code
+
+14. Unity project - project window - plus icon - C# Script - name it
+
+15. Open C# Sript name by duble click on it
+
+16. Write a simple C# code
+
+17. - Microsooft Visual Studio - bar Tools - open Options
+
+Options
+18. - find Text Editor - C# - Code Style - Formatting - New Lines - can change open brace on new line
+
+19. - Unity project - project window - delete C# Script by right click mouse button - Delete
