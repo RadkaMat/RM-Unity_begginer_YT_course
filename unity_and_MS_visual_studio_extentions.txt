@@ -1,0 +1,23 @@
+Unity version: 2022.2.5f1
+Project: 3D (URP) core
+Microsoft Visual Studio 2022
+
+ 1. Open Unity project - bar Window - open Package Manager
+
+Package Manager - bar Packages: in Project - choose Unity Registry 
+ 2. - find Visual Studio Editor 
+ 3. - find Visual Studio Code Editor
+ 4. - find JetBrains Rider Editor
+ 5. - check if all packeges are installed then close window
+
+ 6. - Unity project - bar Edit - open Preferences
+
+Preferences - bar External Tools 
+ 7. - check if External Script Editor is Microsoft Visual Studio 2022 then close window
+
+ 8. - Unity project - bar Assets - Open C# Project
+
+ 9. - Microsoft Visual Studio - bar Extensions - open Manage Extensions
+
+Manage Extensions
+10. - find and install Viasfora then close Microsoft Visual Studio for intalation
