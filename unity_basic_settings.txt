@@ -1,0 +1,16 @@
+Unity version: 2022.2.5f1
+Project: 3D (URP) core
+
+Inspector window
+1. Remove Readme Assets - klick Proceed
+
+2. bar Edit - Project Settings
+
+Project Settings window
+3. sidebar Graphics - check Scriptable Render Pipeline Settings is URP-HighFidelity (Universal Render Pipeline Asset)
+4. sidebar Graphics - URP Global Settings - check settings is UniversalRenderPipelineGlobalSettings (Universal Render Pipeline Global Settings)
+5. sidebar Quality - delete Levels: Performant, Balanced then close window
+
+Project window
+6. delete files: URP-Balanced-Renderer, URP-Balanced, URP-Performant-Renderer, URP-Performant
+7. + button - Rendering - URP Asset (with Universal Renderer)
